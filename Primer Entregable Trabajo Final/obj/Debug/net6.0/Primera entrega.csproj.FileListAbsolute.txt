@@ -1,0 +1,44 @@
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\Primera entrega.exe
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\Primera entrega.deps.json
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\Primera entrega.runtimeconfig.json
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\Primera entrega.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\Primera entrega.pdb
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\Primera entrega.csproj.AssemblyReference.cache
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\Primera entrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\Primera entrega.AssemblyInfoInputs.cache
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\Primera entrega.AssemblyInfo.cs
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\Primera entrega.csproj.CoreCompileInputs.cache
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\Primera entrega.csproj.CopyComplete
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\Primera entrega.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\refint\Primera entrega.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\Primera entrega.pdb
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\Primera entrega.genruntimeconfig.cache
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Clase 13\obj\Debug\net6.0\ref\Primera entrega.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\Primera entrega.exe
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\Primera entrega.deps.json
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\Primera entrega.runtimeconfig.json
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\Primera entrega.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\Primera entrega.pdb
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\Primera entrega.csproj.AssemblyReference.cache
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\Primera entrega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\Primera entrega.AssemblyInfoInputs.cache
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\Primera entrega.AssemblyInfo.cs
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\Primera entrega.csproj.CoreCompileInputs.cache
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\Primera entrega.csproj.CopyComplete
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\Primera entrega.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\refint\Primera entrega.dll
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\Primera entrega.pdb
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\Primera entrega.genruntimeconfig.cache
+C:\Users\BANGHO\Desktop\Curso CoderHouse\Primer Entregable Trabajo Final\obj\Debug\net6.0\ref\Primera entrega.dll
